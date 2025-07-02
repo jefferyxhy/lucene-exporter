@@ -1,0 +1,4 @@
+.idea/
+*.class
+*.csv
+.DS_Store
